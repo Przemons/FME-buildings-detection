@@ -14,4 +14,5 @@ Wykonaj poniższe kroki:
 - str3 - nowoutworzone pozytywy
 - str4 - powiększone etykiety
 5. Uruchom skrypt BuildingDetector.fmw i uzupełnij funkcje RasterObjectDetectorSamplePreparer podając względne ścieżki do pliku negatywów i pliku adnotacji oraz obraz na którym zostanie wykonana detekcja budynków, podłączonego do funkcji Counter.
+
 Gotowe! Twój obraz po detekcji zostanie zapisany na podane wyjście funkcji MapnikRasterizer.
